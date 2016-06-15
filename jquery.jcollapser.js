@@ -1,5 +1,5 @@
 /*!
- * jQuery Collapser 2.0.0
+ * jQuery Collapser 2.0.1
  *
  * Copyright (c) 2010 - 2016 Simon "Wallenium" Wallmann
  * Licensed under the LGPL license.
